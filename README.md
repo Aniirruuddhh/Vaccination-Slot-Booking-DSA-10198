@@ -4,22 +4,18 @@ A Java console application for PS No. 6 that manages a vaccination session using
 
 ## Google Drive Link
 
-Add the link to your project report, demonstration or submission folder below.
-
-**Google Drive link**
-
----
+https://drive.google.com/drive/folders/13HHhH6_XBre80RazsDpDHPafxo-zCWYN?usp=sharing
 
 ## Student Details
 
-| Field              | Details                          |
-| ------------------ | -------------------------------- |
-| Student name       | **************\_\_************** |
-| Roll / ERP number  | **************\_\_************** |
-| Program / branch   | **************\_\_************** |
-| Semester / section | **************\_\_************** |
-| Academic session   | **************\_\_************** |
-| Faculty / guide    | **************\_\_************** |
+| Field              | Details                                      |
+| ------------------ | -------------------------------------------- |
+| Student name       | **\*\***\*\***\*\***\_\_**\*\***\*\***\*\*** |
+| Roll / ERP number  | **\*\***\*\***\*\***\_\_**\*\***\*\***\*\*** |
+| Program / branch   | **\*\***\*\***\*\***\_\_**\*\***\*\***\*\*** |
+| Semester / section | **\*\***\*\***\*\***\_\_**\*\***\*\***\*\*** |
+| Academic session   | **\*\***\*\***\*\***\_\_**\*\***\*\***\*\*** |
+| Faculty / guide    | **\*\***\*\***\*\***\_\_**\*\***\*\***\*\*** |
 
 ## Features
 
